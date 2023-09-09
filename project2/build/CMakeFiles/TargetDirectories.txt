@@ -1,0 +1,4 @@
+/Users/shijiaxiao/Desktop/cmake_cpp_projects/Theory_machine_project2/build/CMakeFiles/main.dir
+/Users/shijiaxiao/Desktop/cmake_cpp_projects/Theory_machine_project2/build/CMakeFiles/cys.dir
+/Users/shijiaxiao/Desktop/cmake_cpp_projects/Theory_machine_project2/build/CMakeFiles/edit_cache.dir
+/Users/shijiaxiao/Desktop/cmake_cpp_projects/Theory_machine_project2/build/CMakeFiles/rebuild_cache.dir
